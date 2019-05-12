@@ -6,4 +6,4 @@ But there comes a problem
 State and lifecycles method cannot be used in functional component
 To rescue,Lifecycle hooks are used in which local value are stored using useState() method
 
-###React Hooks allow for functional components to have a state and utilize lifecycle methods.
+### React Hooks allow for functional components to have a state and utilize lifecycle methods.
